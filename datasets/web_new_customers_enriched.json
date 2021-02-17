@@ -60,11 +60,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 3,
+    "versionNumber": 4,
     "lastModifiedBy": {
-      "login": "admin"
+      "login": "giovanni.aiudi@gmail.com"
     },
-    "lastModifiedOn": 1461148473316
+    "lastModifiedOn": 1613568028628
   },
   "tags": [],
   "params": {
@@ -85,15 +85,15 @@
         "type": "string"
       },
       {
-        "name": "ip",
-        "type": "string"
-      },
-      {
-        "name": "ip_country",
+        "name": "ip2",
         "type": "string"
       },
       {
         "name": "ip_geopoint",
+        "type": "string"
+      },
+      {
+        "name": "ip_country",
         "type": "string"
       },
       {
@@ -105,7 +105,7 @@
         "type": "boolean"
       }
     ],
-    "userModified": false
+    "userModified": true
   },
   "dkuProperties": [],
   "metrics": {
