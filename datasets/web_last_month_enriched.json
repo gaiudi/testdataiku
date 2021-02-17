@@ -60,11 +60,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 3,
+    "versionNumber": 4,
     "lastModifiedBy": {
-      "login": "admin"
+      "login": "giovanni.aiudi@gmail.com"
     },
-    "lastModifiedOn": 1486124433851
+    "lastModifiedOn": 1613558235263
   },
   "tags": [],
   "params": {
@@ -91,9 +91,8 @@
         "maxLength": 1000
       },
       {
-        "name": "ip_country",
-        "type": "string",
-        "maxLength": 1000
+        "name": "ip_country_",
+        "type": "string"
       },
       {
         "name": "pages_visited",
@@ -111,7 +110,7 @@
         "maxLength": 1000
       }
     ],
-    "userModified": false
+    "userModified": true
   },
   "dkuProperties": [],
   "metrics": {
